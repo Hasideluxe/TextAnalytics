@@ -50,3 +50,13 @@ Zitatblock:
 + [ ] Aufgabe 1
 + [ ] Aufgabe 2
 
+-----------------------------------------------------
+
+# Tabellen
+
+__Android__ | __iOS__ | __Windows__
+:--- | :---: | ---:
+App for Android | App für iOS | App für Windows
+test | test | test
+[Play Store](https://playstore.com) | [App store](http://itunes.com) | [Windows store](http://micorsoft.com)
+![](https://image.flaticon.com/icons/png/512/226/226770.png "Geheimer Text") | ![](https://cdn.freelogovectors.net/wp-content/uploads/2018/08/IOS-logo.png) | ![](https://banner2.cleanpng.com/20171216/42a/microsoft-windows-logo-png-5a355f86c471d1.9977832015134473028046.jpg)
