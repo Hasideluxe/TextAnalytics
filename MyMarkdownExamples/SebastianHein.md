@@ -80,7 +80,20 @@ Bitte auf das Bild klicken zum Starten des Videos...
 
 `Code-artiges Format`durch Apostrophen...
 
-```
+```python
 text1 = "Hallo Welt"
 println(text1)
 ```
+
+```html
+<html>
+   <body>
+      <div class='container'>
+         <p>Etwas Text</p>
+      </div>
+   </body>
+</html>
+```
+
+Google Suche nach Programmiersprachen in Markdown:
+![Suche nach Syntax Highlighting Markdown](https://www.google.com/search?rlz=1C1CHBF_deDE874DE874&sxsrf=ACYBGNR86Ja8stsU9nL7FItHTJHzHE6iCQ%3A1576531431642&ei=5_X3XZziJpH5sAfpr4GIBQ&q=Syntax+Highlighting+markdown&oq=Syntax+Highlighting+markdown&gs_l=psy-ab.3..0i203l2j0i22i30j0i22i10i30j0i22i30l6.1686.3495..3970...0.2..0.67.568.9......0....1..gws-wiz.......0i71j0i67j0.nBMjL3AcoyE&ved=0ahUKEwjc8dafjbvmAhWRPOwKHelXAFEQ4dUDCAs&uact=5)
