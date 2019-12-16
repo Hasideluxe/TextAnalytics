@@ -60,3 +60,16 @@ App for Android | App für iOS | App für Windows
 test | test | test
 [Play Store](https://playstore.com) | [App store](http://itunes.com) | [Windows store](http://micorsoft.com)
 ![](https://image.flaticon.com/icons/png/512/226/226770.png "Geheimer Text") | ![](https://cdn.freelogovectors.net/wp-content/uploads/2018/08/IOS-logo.png) | ![](https://banner2.cleanpng.com/20171216/42a/microsoft-windows-logo-png-5a355f86c471d1.9977832015134473028046.jpg)
+
+
+
+![Schöner Wasserschaden?](Wasserschaden_5.jpg "HIer gerade nicht... :)")
+
+
+-----------------------------------------------------
+
+# Video
+
+Bitte auf das Bild klicken zum Starten des Videos...
+
+[![](https://img.youtube.com/vi/F5FEj9U-CJM/maxresdefault.jpg "Clickable als Thumbnail für ein Video")](https://youtu.be/F5FEj9U-CJM)
