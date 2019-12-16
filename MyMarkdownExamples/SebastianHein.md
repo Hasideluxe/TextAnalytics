@@ -73,3 +73,14 @@ test | test | test
 Bitte auf das Bild klicken zum Starten des Videos...
 
 [![](https://img.youtube.com/vi/F5FEj9U-CJM/maxresdefault.jpg "Clickable als Thumbnail für ein Video")](https://youtu.be/F5FEj9U-CJM)
+
+-----------------------------------------------------
+
+# Code anzeigen in Markdown
+
+`Code-artiges Format`durch Apostrophen...
+
+```
+text1 = "Hallo Welt"
+println(text1)
+```
